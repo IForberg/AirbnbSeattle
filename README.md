@@ -1,4 +1,4 @@
-# AirbnbSeattle
+# AirbnbSeattle - Modeling the List Price for Seattle
 
 This project is part of an assignment in Udacity's Data Scientist for Enterprise nanodegree. I have been looking at data from Seattle Airbnb found at https://www.kaggle.com/airbnb/seattle/home and done some analysis of the main dataset based on three questions:
 - Can a linear regression model accurately predict the list price of a property?
