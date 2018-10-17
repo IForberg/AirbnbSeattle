@@ -29,7 +29,7 @@ The jupyter notebook, source files and one output file are included in this repo
 
 ## Blog post
 
-A blog post describing the results can be found at
+A blog post describing the results can be found at https://medium.com/@ingmund.forberg/want-to-make-money-on-airbnb-lose-the-hangers-5b55c6deef3e
 
 
 ## Authors
