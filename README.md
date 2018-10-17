@@ -30,3 +30,13 @@ The jupyter notebook, source files and one output file are included in this repo
 ## Blog post
 
 A blog post describing the results can be found at
+
+
+## Authors
+
+Ingmund Forberg
+
+
+## Acknowledgements
+
+A very helpful function for calculating empty cells in a column was sourced from https://stackoverflow.com/questions/26266362/how-to-count-the-nan-values-in-a-column-in-pandas-dataframe
